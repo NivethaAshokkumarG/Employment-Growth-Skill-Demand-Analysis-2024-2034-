@@ -101,16 +101,16 @@ The following visualizations highlight key employment and workforce patterns ide
 ![Employment Growth Distribution](<img width="1982" height="1174" alt="7C3E8725-755E-4290-ABF0-47FE4ED89084" src="https://github.com/user-attachments/assets/0e3cd955-a15d-4e25-8b40-df868065e96b" />.png)
 
 ### Top High-Growth Occupations
-![Top High-Growth Occupations](visuals/high_growth_occupations.png)
+![Top High-Growth Occupations](<img width="2304" height="1186" alt="EA38A53A-A841-4C85-AB89-76C2EFCC29A1" src="https://github.com/user-attachments/assets/b5182640-83bd-44b6-881e-ee8e1cb1a0fc" />.png)
 
 ### Critical Workforce Areas
-![Critical Workforce Areas](visuals/critical_workforce.png)
+![Critical Workforce Areas](<img width="1980" height="1182" alt="6325C5C3-6311-4E64-B93F-8DC9DA506679" src="https://github.com/user-attachments/assets/22be5b6c-b16b-47d6-ba8e-da48b1a4d7c6" />.png)
 
 ### Skill Demand Analysis
-![Skill Demand Analysis](visuals/skill_demand.png)
+![Skill Demand Analysis](<img width="1986" height="1160" alt="33A2F855-0374-46AB-8373-737E76AFD521" src="https://github.com/user-attachments/assets/71c36e24-7cd2-4837-9d39-4180b998e62e" />.png)
 
 ### Workforce Opportunity Matrix
-![Workforce Opportunity Matrix](visuals/workforce_opportunity_matrix.png)
+![Workforce Opportunity Matrix](<img width="2174" height="1178" alt="CC8002DC-A098-4694-891C-67B843B54BC1" src="https://github.com/user-attachments/assets/6d8eae31-4cd5-4204-865a-840ac24fd2a1" />.png)
 
 The analysis helps organizations make data-driven decisions regarding:
 
