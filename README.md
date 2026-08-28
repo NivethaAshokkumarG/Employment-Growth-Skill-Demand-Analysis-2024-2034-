@@ -8,8 +8,8 @@ This project analyzes employment projections and occupational skill requirements
 
 The analysis combines BLS employment projection data with O*NET occupational and skill information to generate actionable insights for workforce planning, hiring, reskilling, and development.
 
-**Business Objectives
-**
+**Business Objectives**
+
 * Identify future high-growth occupations
 * Identify critical and declining workforce areas
 * Analyze employment growth patterns from 2024–2034
@@ -18,8 +18,8 @@ The analysis combines BLS employment projection data with O*NET occupational and
 * Generate actionable workforce insights
 * Support workforce planning and development
 
-**Data Sources
-**
+**Data Sources**
+
 * U.S. Bureau of Labor Statistics (BLS) – Employment and occupational projections for 2024–2034
 * O*NET – Occupational skills and occupational characteristics
 
@@ -57,8 +57,8 @@ The following features were created to support business analysis:
 * Employment_Size – Classified occupations based on workforce size
 * Future_Demand_Index – Composite indicator representing future workforce demand
 
-**Exploratory Data Analysis
-**
+**Exploratory Data Analysis**
+
 EDA was performed to understand:
 
 * Employment distribution
@@ -103,7 +103,7 @@ The analysis helps organizations make data-driven decisions regarding:
 * Future skill preparation
 * Workforce risk management
 
-Future Enhancements
+**Future Enhancements**
 
 * Develop an interactive Power BI workforce dashboard
 * Automate data refresh and reporting using n8n
@@ -112,6 +112,6 @@ Future Enhancements
 * Automate generation of workforce recommendations
 * Develop predictive models for future skill demand
 
-Project Outcome
+**Project Outcome**
 
 The project transforms employment and occupational skill data into actionable workforce intelligence, helping organizations understand where future employment demand is increasing, where workforce risks exist, and which skills should be prioritized for future development.
