@@ -93,6 +93,24 @@ Workforce Opportunity Matrix
 Compares current employment size with projected growth to classify occupations into different workforce opportunity areas.
 
 Business Value
+## 📊 Data Visualization
+
+The following visualizations highlight key employment and workforce patterns identified through the analysis.
+
+### Employment Growth Distribution
+![Employment Growth Distribution](<img width="1982" height="1174" alt="7C3E8725-755E-4290-ABF0-47FE4ED89084" src="https://github.com/user-attachments/assets/0e3cd955-a15d-4e25-8b40-df868065e96b" />.png)
+
+### Top High-Growth Occupations
+![Top High-Growth Occupations](visuals/high_growth_occupations.png)
+
+### Critical Workforce Areas
+![Critical Workforce Areas](visuals/critical_workforce.png)
+
+### Skill Demand Analysis
+![Skill Demand Analysis](visuals/skill_demand.png)
+
+### Workforce Opportunity Matrix
+![Workforce Opportunity Matrix](visuals/workforce_opportunity_matrix.png)
 
 The analysis helps organizations make data-driven decisions regarding:
 
