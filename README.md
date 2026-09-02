@@ -131,7 +131,7 @@ The analysis helps organizations make data-driven decisions regarding:
 * Develop predictive models for future skill demand
 
   ### Employment Skill Demand Analysis Dashboard
-![Workforce Opportunity Matrix](<img width="2174" height="1178" alt="CC8002DC-A098-4694-891C-67B843B54BC1" src="https://github.com/user-attachments/assets/6d8eae31-4cd5-4204-865a-840ac24fd2a1" />.png)
+![Employment Skill Demand Analysis Dashboard](<img width="2174" height="1178" alt="CC8002DC-A098-4694-891C-67B843B54BC1" src="employ dashboard.png" />.png)
 
 
 **Project Outcome**
