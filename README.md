@@ -130,6 +130,10 @@ The analysis helps organizations make data-driven decisions regarding:
 * Automate generation of workforce recommendations
 * Develop predictive models for future skill demand
 
+  ### Employment Skill Demand Analysis Dashboard
+![Workforce Opportunity Matrix](<img width="2174" height="1178" alt="CC8002DC-A098-4694-891C-67B843B54BC1" src="https://github.com/user-attachments/assets/6d8eae31-4cd5-4204-865a-840ac24fd2a1" />.png)
+
+
 **Project Outcome**
 
 The project transforms employment and occupational skill data into actionable workforce intelligence, helping organizations understand where future employment demand is increasing, where workforce risks exist, and which skills should be prioritized for future development.
